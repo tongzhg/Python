@@ -8,7 +8,7 @@
 ### 第0章 [安装Python运行环境](https://github.com/tongzhg/Python/blob/master/lessons/part2/0.md)
 ### 第1章 [你的第一个Python程序](https://github.com/tongzhg/Python/blob/master/lessons/part2/1.md)
 ### 第2章 [数据类型和变量](https://github.com/tongzhg/Python/blob/master/lessons/part2/2.md)
-### 第3章 列表与字典(https://github.com/tongzhg/Python/blob/master/lessons/part2/3.md)
+### 第3章 [列表与字典](https://github.com/tongzhg/Python/blob/master/lessons/part2/3.md)
 ### 第4章 流程控制
 ### 第5章 函数
 ### 第6章 对象
