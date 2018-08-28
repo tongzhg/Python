@@ -11,7 +11,7 @@
 ### 第2章 [数据类型和变量](https://github.com/tongzhg/Python/blob/master/lessons/part2/2.md)
 ### 第3章 [列表与字典](https://github.com/tongzhg/Python/blob/master/lessons/part2/3.md)
 ### 第4章 [流程控制](https://github.com/tongzhg/Python/blob/master/lessons/part2/4.md)
-### 第5章 函数
+### 第5章 [函数](https://github.com/tongzhg/Python/blob/master/lessons/part2/5.md)
 ### 第6章 对象
 ### 第7章 错误处理
 ### 第8章 开发一个网站
