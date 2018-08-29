@@ -1,6 +1,6 @@
 # Python 极简教程
 
-### 本教程是面向美女的，就是...特别好看的那种
+本教程是面向美女的，就是...特别好看的那种
 
 ## 第一部分：计算机基础
 ### 第1章 [硬件 + 软件](https://github.com/tongzhg/Python/blob/master/lessons/part1/1.md)
